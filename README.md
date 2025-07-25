@@ -17,7 +17,7 @@ A sleek and responsive web app that lets you **convert currencies** in real-time
 
 ## 🌐 Live Demo
 
-[🔗 Click here to try the live app](https://currency-converter-amna.vercel.app)
+[🔗 Click here to try the live app](https://currency-converter-nine-xi.vercel.app/)
 
 ---
 
@@ -26,7 +26,7 @@ A sleek and responsive web app that lets you **convert currencies** in real-time
 - **HTML5**
 - **CSS3**
 - **JavaScript (Vanilla JS)**
-- **Exchange Rate API** (e.g., [ExchangeRate-API](https://www.exchangerate-api.com/))
+- **Exchange Rate API**
 
 ---
 
